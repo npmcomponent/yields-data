@@ -1,0 +1,11 @@
+{
+  "name": "yields-data",
+  "description": "attach data to elements. think $.data().",
+  "version": "0.0.3",
+  "keywords": [
+    "data",
+    "data api",
+    "html5"
+  ],
+  "dependencies": {}
+}
